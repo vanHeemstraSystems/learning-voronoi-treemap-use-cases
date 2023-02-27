@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-voronoi-treemap-use-cases/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-voronoi-treemap-use-cases/actions/workflows/publish.yml)
+
 learning-voronoi-treemap-use-cases
 # Learning Voronoi Treemap - Use Cases
 
