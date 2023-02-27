@@ -3,7 +3,7 @@ learning-voronoi-treemap-use-cases
 
 Part of "Learning - Voronoi Treemap" at https://github.com/vanHeemstraSystems/learning-voronoi-treemap
 
-Can be read as "Learning Voronoi Treemap - Use Cases" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/rj8myMko4HNX3RA2WxvW/
+Can be read as "Learning Voronoi Treemap - Use Cases" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/ctucNWk20QtwQV0UB2vT/
 
 Can be browsed as "Learning Voronoi Treemap - Use Cases" at https://vanheemstrasystems.github.io/learning-voronoi-treemap-use-cases/
 
