@@ -10,7 +10,7 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{mermaid}
 flowchart LR
-  A[Learner] --> B(UC: Master FoamTree)
+  A[Learner] --> B(UC: Master D3 Voronoi Treemap)
   A[Learner] --> C(UC: Master XXX Computing)
   A[Learner] --> D(UC: Master YYY Computing)
   A[Learner] --> E(UC: Master ZZZ Computing)  
