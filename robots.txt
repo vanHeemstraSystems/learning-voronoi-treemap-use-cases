@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vanHeemstraSystems/learning-voronoi-treemap-use-cases/sitemap.xml
+Sitemap: https://vanHeemstraSystems.github.io/learning-voronoi-treemap-use-cases/sitemap.xml

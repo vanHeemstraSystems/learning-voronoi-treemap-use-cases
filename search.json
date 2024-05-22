@@ -7,11 +7,11 @@
     "text": "About this site"
   },
   {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Learning Voronoi Treemap - Use-Cases",
     "section": "",
-    "text": "Table of contents\n\nLearning Voronoi Treemap - Use Cases"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Voronoi Treemap\n\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master D3 Voronoi Treemap)\n  A[Learner] --&gt; C(UC: Master XXX Computing)\n  A[Learner] --&gt; D(UC: Master YYY Computing)\n  A[Learner] --&gt; E(UC: Master ZZZ Computing)  \n  B --&gt; F{Abstract UC: Master Voronoi Treemap}\n  C --&gt; F{Abstract UC: Master Voronoi Treemap}\n  D --&gt; F{Abstract UC: Master Voronoi Treemap}\n  E --&gt; F{Abstract UC: Master Voronoi Treemap}\n\n\n\n\n\n\nSee also “FoamTree” at https://carrotsearch.com/foamtree/"
   },
   {
     "objectID": "about.html",
@@ -21,10 +21,10 @@
     "text": "About this site"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning Voronoi Treemap - Use-Cases",
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Voronoi Treemap\n\n\n\n\nflowchart LR\n  A[Learner] --> B(UC: Master D3 Voronoi Treemap)\n  A[Learner] --> C(UC: Master XXX Computing)\n  A[Learner] --> D(UC: Master YYY Computing)\n  A[Learner] --> E(UC: Master ZZZ Computing)  \n  B --> F{Abstract UC: Master Voronoi Treemap}\n  C --> F{Abstract UC: Master Voronoi Treemap}\n  D --> F{Abstract UC: Master Voronoi Treemap}\n  E --> F{Abstract UC: Master Voronoi Treemap}\n\n\n\n\n\n\n\n\nSee also “FoamTree” at https://carrotsearch.com/foamtree/"
+    "text": "Table of contents\n\nLearning Voronoi Treemap - Use Cases"
   }
 ]
